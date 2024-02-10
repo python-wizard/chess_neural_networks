@@ -1,0 +1,234 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bekl2I1q"]
+[Date "2023.12.16"]
+[White "Matty975"]
+[Black "seleo34"]
+[Result "0-1"]
+[UTCDate "2023.12.16"]
+[UTCTime "15:15:13"]
+[WhiteElo "1133"]
+[BlackElo "1019"]
+[WhiteRatingDiff "-78"]
+[BlackRatingDiff "+7"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D00"]
+[Termination "Time forfeit"]
+
+1. d4 d5 2. Bf4 h6 3. e3 a6 4. Nd2 Nf6 5. c3 Bg4 6. Ngf3 e6 7. Bd3 Nc6 8. h3 Bh5 9. g4 Bg6 10. Ne5 Nxe5 11. Bxg6 fxg6 12. Nf3 Nc4 13. Qe2 g5 14. Bg3 Ne4 15. Ne5 Bd6 16. Qf3 Bxe5 17. Bxe5 Nxe5 18. dxe5 Rf8 19. Qe2 Qe7 20. O-O-O O-O-O 21. f3 Ng3 22. Qd3 Nxh1 23. Rxh1 c6 24. f4 gxf4 25. exf4 Rxf4 26. Qe3 Re4 27. Qb6 Rxe5 28. Qa7 Qg5+ 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ppOkLfaC"]
+[Date "2023.12.15"]
+[White "gilking"]
+[Black "Matty975"]
+[Result "1-0"]
+[UTCDate "2023.12.15"]
+[UTCTime "22:54:09"]
+[WhiteElo "1168"]
+[BlackElo "1211"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-78"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C46"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 d6 5. d3 Nf6 6. Ng5 Be6 7. Bxe6 fxe6 8. Nxe6 Qe7 9. Nxc5 dxc5 10. Nd5 Qd6 11. Nxf6+ Qxf6 12. O-O Nd4 13. c3 Ne6 14. d4 Rd8 15. f4 O-O 16. fxe5 Qg6 17. d5 Nf4 18. Bxf4 Qxe4 19. Bg3 Rxf1+ 20. Qxf1 Rxd5 21. Re1 Qg6 22. e6 Rd8 23. Bxc7 Re8 24. e7 Qc6 25. Qc4+ Kh8 26. Qf7 h6 27. Qf8+ Rxf8 28. exf8=Q+ Kh7 29. Be5 c4 30. Qxg7# 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8HsxGPXT"]
+[Date "2023.12.15"]
+[White "maxlich5"]
+[Black "Matty975"]
+[Result "1-0"]
+[UTCDate "2023.12.15"]
+[UTCTime "22:44:06"]
+[WhiteElo "1274"]
+[BlackElo "1305"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-94"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C53"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 Bb6 6. dxe5 dxe5 7. O-O Qxd1 8. Rxd1 Nf6 9. Bg5 Nxe4 10. Bh4 h6 11. Bb5 Bd7 12. Na3 g5 13. Bg3 f5 14. h3 Nxg3 15. Kh2 Bxf2 16. Nc4 Be6 17. Ncxe5 a6 18. Nxc6 bxc6 19. Bxc6+ Ke7 20. Bxa8 Rxa8 21. Rd2 Nf1+ 22. Kh1 Nxd2 23. Nxd2 Rd8 24. Nf3 g4 25. hxg4 fxg4 26. Ne5 Kf6 27. Nxg4+ Kg5 28. Nxf2 Rd2 29. Ne4+ Kg4 30. Nxd2 h5 31. Re1 Bxa2 32. Re4+ Kg3 33. Nf1+ Kf2 34. Nh2 Kg3 35. Re5 Kf2 36. Rxh5 Ke3 37. Ra5 Kd2 38. Rxa2 Kc2 39. Ng4 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wxcjSGNY"]
+[Date "2023.12.12"]
+[White "Matty975"]
+[Black "briangomez934"]
+[Result "0-1"]
+[UTCDate "2023.12.12"]
+[UTCTime "22:17:57"]
+[WhiteElo "1444"]
+[BlackElo "1365"]
+[WhiteRatingDiff "-139"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A40"]
+[Termination "Normal"]
+
+1. d4 g6 2. Bf4 Bg7 3. Nf3 d5 4. e3 Nc6 5. c3 Nf6 6. Nbd2 O-O 7. Bd3 Re8 8. Ne5 Nxe5 9. Bxe5 e6 10. g4 Nd7 11. f4 f6 12. Nf3 fxe5 13. Nxe5 Nxe5 14. fxe5 Rf8 15. Qe2 Qh4+ 16. Kd2 Rf2 17. Qxf2 Qxf2+ 18. Be2 b6 19. Raf1 Qh4 20. Rf4 Bb7 21. h3 Rf8 22. Rxf8+ Bxf8 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/8hgFFD1F"]
+[Date "2023.12.12"]
+[White "Matty975"]
+[Black "ConstantinG"]
+[Result "0-1"]
+[UTCDate "2023.12.12"]
+[UTCTime "22:04:14"]
+[WhiteElo "1630"]
+[BlackElo "1584"]
+[WhiteRatingDiff "-186"]
+[BlackRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "A46"]
+[Termination "Normal"]
+
+1. d4 e6 2. Bf4 Nf6 3. Nf3 d6 4. e3 Be7 5. Bd3 Bd7 6. c3 a6 7. Nbd2 O-O 8. g4 Nxg4 9. Ng5 Bxg5 10. Qxg4 Bxf4 11. Qxf4 e5 12. Qg3 Qf6 13. Ne4 Qe7 14. Ng5 f5 15. Qh4 h6 16. Nf3 Qxh4 17. Nxh4 e4 18. Be2 Bb5 19. Nxf5 Rxf5 20. Bxb5 axb5 21. Rg1 Nc6 22. Rg4 Ne7 23. Rxe4 Nd5 24. Kd2 Rxf2+ 25. Kc1 Rf1+ 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/wJ2JLZfi"]
+[Date "2023.12.11"]
+[White "dom12345"]
+[Black "Matty975"]
+[Result "0-1"]
+[UTCDate "2023.12.11"]
+[UTCTime "22:13:41"]
+[WhiteElo "1269"]
+[BlackElo "1500"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+130"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "D06"]
+[Termination "Normal"]
+
+1. d4 d5 2. c4 Nf6 3. Nc3 dxc4 4. e4 Bg4 5. f3 Bh5 6. Bxc4 e6 7. Nge2 Bb4 8. O-O O-O 9. Nf4 Nc6 10. e5 Bxf3 11. Qxf3 Qxd4+ 12. Kh1 Nxe5 13. Bxe6 Nxf3 0-1
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/ntKzga94"]
+[Date "2023.12.10"]
+[White "Matty975"]
+[Black "Alihanl_E20"]
+[Result "0-1"]
+[UTCDate "2023.12.10"]
+[UTCTime "15:35:48"]
+[WhiteElo "1156"]
+[BlackElo "1089"]
+[WhiteRatingDiff "-142"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C65"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. Nxe5 Nxe4 6. Nxf7 Kxf7 7. Qf3+ Nf6 8. O-O Bb4 9. d3 Rf8 10. Bg5 Kg8 11. h3 h6 12. Bf4 Nd5 13. Qe4 Qf6 14. Bxc7 Qxb2 15. Be5 Nc3 16. Nxc3 Bxc3 17. Bxc3 Qxc3 18. Rac1 Bf5 19. Qc4+ Qxc4 20. dxc4 Rad8 21. Rfe1 Rd2 22. Re7 Rxc2 23. Rxc2 Bxc2 24. Rxb7 a5 25. Rc7 Ba4 26. Kf1 Re8 27. Ra7 Re5 28. f4 Rc5 29. Kf2 g5 30. fxg5 Rxg5 31. Kf3 Rf5+ 32. Kg3 Rg5+ 33. Kf2 Rc5 34. Ke3 Rxc4 35. Rxa5 c5 36. Kf2 Bc6 37. Ra6 Rc2+ 38. Kg3 Bxg2 39. Rxh6 c4 40. Rg6+ Kf7 41. Rg4 c3 42. Kh2 Bf3+ 43. Kg3 Bxg4 44. Kxg4 Rxa2 45. h4 c2 46. h5 c1=Q 47. Kf5 Qc5+ 48. Kg4 Ra4+ 49. Kf3 Qxh5+ 50. Kg3 Qb5 51. Kf3 Qb3+ 52. Ke2 Ra2+ 53. Ke1 Qe3+ 54. Kd1 Qg1# 0-1
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/zttdTZdg"]
+[Date "2023.12.09"]
+[White "yaroslav_999"]
+[Black "Matty975"]
+[Result "1-0"]
+[UTCDate "2023.12.09"]
+[UTCTime "17:12:04"]
+[WhiteElo "1225"]
+[BlackElo "1313"]
+[WhiteRatingDiff "+156"]
+[BlackRatingDiff "-157"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B40"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 d5 4. Bd3 c4 5. Be2 Nf6 6. e5 Nfd7 7. c3 Nc6 8. O-O h5 9. Be3 h4 10. h3 f6 11. exf6 Nxf6 12. Bg5 Be7 13. Bxh4 Ne4 14. Bxe7 Nxe7 15. Nbd2 g5 16. Nxe4 dxe4 17. Ne5 b5 18. Bh5+ Kf8 19. Ng6+ Nxg6 20. Bxg6 Rh4 21. g3 Rxh3 22. Bxe4 Rb8 23. Qf3+ Ke8 24. Bg6+ Kd7 25. d5 e5 26. Bf5+ Kc7 27. Bxh3 Bb7 28. Rad1 Qh8 29. Qf7+ Kd6 30. Qd7+ Kc5 31. b4+ Kb6 32. Qd6+ Bc6 33. Qxc6# 1-0
+
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/TLCpDxyg"]
+[Date "2023.12.09"]
+[White "Matty975"]
+[Black "Philipp_Fed"]
+[Result "0-1"]
+[UTCDate "2023.12.09"]
+[UTCTime "16:40:49"]
+[WhiteElo "1500"]
+[BlackElo "1585"]
+[WhiteRatingDiff "-187"]
+[BlackRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C26"]
+[Termination "Time forfeit"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bb5 c6 4. Ba4 Be7 5. a3 b5 6. Bb3 O-O 7. d4 exd4 8. Qxd4 d6 9. Bg5 h6 10. Bh4 Nh7 11. Bxe7 Qxe7 12. f4 Ba6 13. Nf3 c5 14. Qd5 Nd7 15. O-O-O b4 16. axb4 cxb4 17. Nb5 Bxb5 18. Qxb5 Ndf6 19. e5 dxe5 20. Nxe5 Ne4 21. Bxf7+ Rxf7 22. Nxf7 Qxf7 23. Rd7 Qxf4+ 24. Kb1 Qf2 25. Qd5+ Kh8 26. Qxa8+ Nf8 27. Qxe4 Nxd7 28. Rd1 Nf6 29. Rd8+ Ng8 30. Qxb4 Qf1+ 31. Ka2 Qxg2 32. Qc4 Kh7 33. Qxg8+ Kg6 34. Qe6+ Kh5 35. Rh8 Qxh2 36. Qf5+ Kh4 37. Re8 Qg2 38. Re4+ Qxe4 39. Qxe4+ Kg3 40. c4 h5 41. Kb3 h4 42. Qe1+ Kg4 43. Qh1 h3 44. Kc3 Kh4 45. Kd3 g5 46. Ke3 g4 47. Kf2 g3+ 48. Kf3 h2 49. Qxh2+ gxh2 0-1
+
+
+[Event "Casual Classical game"]
+[Site "https://lichess.org/caPekUZE"]
+[Date "2020.07.07"]
+[White "Matty975"]
+[Black "Tomchilds"]
+[Result "1-0"]
+[UTCDate "2020.07.07"]
+[UTCTime "18:51:22"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "1500+0"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. e4 g6 2. d4 d6 3. Be3 Bg7 4. Qd2 Nf6 5. Bh6 Nxe4 6. Qe3 Bf5 7. Bxg7 Rg8 8. Bh6 Nc6 9. Be2 Nb4 10. Na3 c5 11. O-O-O e5 12. d5 g5 13. g4 Bg6 14. Bb5+ Ke7 15. Bxg5+ f6 16. Bh4 a6 17. Bd3 Ng5 18. Bxg5 fxg5 19. Bxg6 Rxg6 20. Kb1 Qd7 21. h3 h6 22. c3 Qa4 23. Ne2 Nc2 24. Nxc2 b5 25. b3 Qf4 26. Nxf4 gxf4 27. Qe4 c4 28. Qxg6 Rb8 29. Qe6+ Kd8 30. Qxd6+ Kc8 31. Qxa6+ Kc7 32. d6+ 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/3DtEhynE"]
+[Date "2020.06.25"]
+[White "Anonymous"]
+[Black "Matty975"]
+[Result "1-0"]
+[UTCDate "2020.06.25"]
+[UTCTime "17:43:06"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "1200+0"]
+[ECO "A22"]
+[Termination "Normal"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Bb4 4. Nge2 d6 5. g3 Nc6 6. Bg2 Bg4 7. h3 Bxc3 8. bxc3 Be6 9. d3 O-O 10. Rb1 b6 11. O-O a5 12. Kh2 h6 13. f4 exf4 14. Nxf4 Re8 15. Nd5 Ne5 16. d4 Nxc4 17. Qd3 Nxd5 18. exd5 Bd7 19. Qxc4 b5 20. Qd3 Rb8 21. h4 b4 22. cxb4 axb4 23. Bd2 Qe7 24. Rf2 Bb5 25. Qf3 Bc4 26. Rb2 Rb5 27. Qg4 Kh8 28. Rf5 c6 29. Bxh6 gxh6 30. Rbf2 Rg8 31. Qh5 Rxd5 32. Qxh6# 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/n43fUzdo"]
+[Date "2020.06.23"]
+[White "Anonymous"]
+[Black "Matty975"]
+[Result "1-0"]
+[UTCDate "2020.06.23"]
+[UTCTime "20:38:51"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "1200+0"]
+[ECO "D00"]
+[Termination "Normal"]
+
+1. d4 d5 2. Bf4 c5 3. Nf3 cxd4 4. Nxd4 Nc6 5. e3 Nxd4 6. exd4 Nf6 7. Nd2 e6 8. Nf3 Bd6 9. Bg3 Bxg3 10. hxg3 Qb6 11. b3 a5 12. a4 Qb4+ 13. Qd2 Qxd2+ 14. Nxd2 Ne4 15. Nxe4 dxe4 16. O-O-O Bd7 17. Bc4 Ke7 18. Rh4 Bc6 19. d5 exd5 20. Bxd5 Bxd5 21. Rxd5 Ke6 22. Rb5 h6 23. Rxe4+ Kf6 24. Rxb7 Rhe8 25. Rxe8 Rxe8 26. c4 Re2 27. Rb6+ Ke7 28. Rb5 Rxf2 29. Rxa5 Rxg2 30. c5 Rxg3 31. c6 Rc3+ 32. Kb2 Rxc6 33. b4 g5 34. Kb3 g4 35. Re5+ Kd6 36. b5 Rc5 37. Re3 Rg5 38. Rd3+ Rd5 39. Rc3 h5 40. b6 g3 41. b7 Ke7 42. b8=Q g2 43. Rg3 Rd1 44. Rxg2 Rb1+ 45. Rb2 Rxb2+ 46. Kxb2 Kf6 47. Qf4+ Kg6 48. a5 f5 49. a6 Kf6 50. a7 Ke6 51. a8=Q Kf6 52. Qa6+ Kg7 53. Qc7+ Kf8 54. Qa8# 1-0
+
+
