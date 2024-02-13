@@ -11,27 +11,27 @@ nn2 or ccn2 or linear 2
 Network deciding where to move a piece indicated by network 1
 
 ## Key Files
-* _cnn1_1.ipynb_ - Convolutional neural Netork model training notebook indicating which piece to move
-* _cnn2_1.ipynb_ - Convolutional neural Netork model training notebook indicating where to move a piece indicated by network 1
-* _linear1_l.ipynb_ - Linear network with 2 hidden layers indicating which piece to move
-* _linear2_l.ipynb_ - Linear network model training notebook indicating where to move a piece indicated by network 1
-* _linear1.ipynb_ - Using nn linear network with 2 hidden layers indicating which piece to move
+* [cnn1_l.ipynb](./cnn1_l.ipynb) - Convolutional neural Netork model training notebook indicating which piece to move
+* [cnn2_l.ipynb](./cnn2_l.ipynb) - Convolutional neural Netork model training notebook indicating where to move a piece indicated by network 1
+* [linear1_l.ipynb](./linear1_l.ipynb) - Linear network with 2 hidden layers indicating which piece to move
+* [linear2_l.ipynb](./linear2_l.ipynb) - Linear network model training notebook indicating where to move a piece indicated by network 1
+* [linear1.ipynb](./linear1.ipynb) - Using nn linear network with 2 hidden layers indicating which piece to move
 
-* _py_files/chess.py_ - Python script with functions used for data transformation from PGN game files to Numpy/Pytorch arrays.
+* [py_files/chess.py](./py_files/chess_specific_move.py) - Python script with functions used for data transformation from PGN game files to Numpy/Pytorch arrays.
 
-* _transformation_data_linear.ipynb_ - Notebook showing transformation of data for linear networks (with smaller input)
+* [transform_data_linear.ipynb](./transform_data_linear.ipynb) - Notebook showing transformation of data for linear networks (with smaller input)
 
-* _transform_data_convolutional.ipynb_ - Notebook showing transformation of data for convolutional networks (with bigger input)
+* [transform_data_convolutional.ipynb](./transform_data_convolutional.ipynb) - Notebook showing transformation of data for convolutional networks (with bigger input)
 
-* _chess_lib.ipynb_ - learning and paying with Python-chess library
+* [chess_lib.ipynb](./chess_lib.ipynb) - learning and paying with Python-chess library
 
 
 ## Folders
-* _py_files_ - python scripts used for data transformation
-* _objects_ - storing python objects (dictionaries for parsing square numbers into 'a1' names of squares and vice versa)
-* _pgn_files_ - folder with my downloaded games from lichess.com
-* _np_arrays_ - (empty on github as files are too big) folder with numpy arrays (for linear networks) saved after data transormation for loading before training
-* _python_pickles_ - python objects as pickles
+* __py_files__ - python scripts used for data transformation
+* __objects__ - storing python objects (dictionaries for parsing square numbers into 'a1' names of squares and vice versa)
+* __pgn_files__ - folder with my downloaded games from lichess.com
+* __np_arrays__ - (empty on github as files are too big) folder with numpy arrays (for linear networks) saved after data transormation for loading before training
+* __python_pickles__ - python objects as pickles
 
 
 ### Introduction
@@ -66,14 +66,14 @@ There are two networks as part of the AI system. I call them NN1 and NN2. Given 
 Presenting the board to a neural network is a tricky issue. After reading a lot of articles about it I decided to do the following:
 First I present arrays representing each piece for each color. Each array has a shape of 8x8 (like a chessboard). Location 0 in the array represents a1 square and 63 represents h8. Example array indicating location of white pawns:
 
-tensor([[0., 0., 0., 0., 0., 0., 0., 0.],
-        [1., 1., 0., 0., 0., 1., 1., 1.],
-        [0., 0., 0., 0., 0., 0., 0., 0.],
-        [0., 0., 0., 0., 0., 0., 0., 0.],
-        [0., 0., 0., 1., 0., 0., 0., 0.],
-        [0., 0., 0., 0., 0., 0., 0., 0.],
-        [0., 0., 0., 0., 0., 0., 0., 0.],
-        [0., 0., 0., 0., 0., 0., 0., 0.]])  
+        tensor([[0., 0., 0., 0., 0., 0., 0., 0.],
+                [1., 1., 0., 0., 0., 1., 1., 1.],
+                [0., 0., 0., 0., 0., 0., 0., 0.],
+                [0., 0., 0., 0., 0., 0., 0., 0.],
+                [0., 0., 0., 1., 0., 0., 0., 0.],
+                [0., 0., 0., 0., 0., 0., 0., 0.],
+                [0., 0., 0., 0., 0., 0., 0., 0.],
+                [0., 0., 0., 0., 0., 0., 0., 0.]])  
  
 There are 5 arrays for white (each piece) and 5 arrays for black pieces. 1 represents the existence of a piece at a given position. Another array represents the location of en passant square (can only be done immediately after double pawn move by opposite player), so it can’t be deduced from how the board looks. With the linear networks, after flattening all the arrays I extended it by length 4 for ability for castle for each player on each side (2 colors x 2 castle options) and extended by 1 to indicate what color is to make a move. We end up with 837 input nodes.
 
@@ -124,8 +124,11 @@ For validation accuracy CNN1 plateaus around epoch 10 with value of 0.47. In cas
 ![Accuracy for validation data chart](charts/accuracy_validation.png)
 
 ![Accuracy for validation data chart](charts/loss.png)
+
+
 Loss for all networks seems to steadily go down with training. Validation loss the lowest loss for CNN1 is around epoch 3 with value of 1.648 and for CNN2 around epoch 6 with value of 1.279.
 
+s
 ![Accuracy for validation data chart](charts/loss_validation.png)
 
 Results:
