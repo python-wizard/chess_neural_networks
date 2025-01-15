@@ -128,7 +128,8 @@ For validation accuracy CNN1 plateaus around epoch 10 with value of 0.47. In cas
 
 Loss for all networks seems to steadily go down with training. Validation loss the lowest loss for CNN1 is around epoch 3 with value of 1.648 and for CNN2 around epoch 6 with value of 1.279.
 
-s
+Loss for all networks seems to steadily go down with training. Validation loss, the lowest loss for CNN1, is around epoch 3 with a value of 1.648 and for CNN2 around epoch 6 with a value of 1.279. These epochs could be highlighted as potential checkpoints for model selection, as they represent the points of minimal validation loss.
+
 ![Accuracy for validation data chart](charts/loss_validation.png)
 
 Results:
